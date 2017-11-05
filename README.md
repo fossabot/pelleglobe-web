@@ -8,14 +8,14 @@ To learn how to use React and related technologies, I've started this project. I
 
 ```
 yarn    
-npm run
+yarn start
 ```
 
 or, in production:    
 
 ```
 yarn    
-yarn run build    
+yarn run build -- --release    
 ```    
 
 ![Eddy Wally](https://i.imgur.com/Mj2iT9d.gif?noredirect)
